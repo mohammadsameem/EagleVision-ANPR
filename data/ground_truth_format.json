@@ -1,0 +1,66 @@
+{
+  "_comment": "Ground Truth Annotation Format for ANPR Validation",
+  "_schema_version": "1.0",
+  "video": {
+    "path": "path/to/video.mp4",
+    "resolution": "1920x1080",
+    "fps": 30.0,
+    "total_frames": 900,
+    "duration_sec": 30.0,
+    "source": "CCTV camera location or dataset name",
+    "licensing": "License information or usage permissions",
+    "privacy_notes": "Notes about data anonymization or consent"
+  },
+  "annotation_info": {
+    "annotator": "Annotator name or ID",
+    "annotation_date": "2026-10-29",
+    "annotation_tool": "Tool used for annotation",
+    "notes": "Any relevant notes about the annotations"
+  },
+  "frames": [
+    {
+      "frame_index": 0,
+      "timestamp_ms": 0,
+      "vehicles": [
+        {
+          "vehicle_id": "v001",
+          "bbox": [100, 200, 150, 180],
+          "_bbox_format": "[x, y, width, height] in pixels",
+          "class": "car",
+          "_class_options": "car, truck, bus, motorcycle, etc.",
+          "occluded": false,
+          "truncated": false,
+          "difficult": false,
+          "notes": "Optional notes about this vehicle"
+        }
+      ],
+      "plates": [
+        {
+          "plate_id": "p001",
+          "vehicle_id": "v001",
+          "bbox": [130, 340, 60, 20],
+          "_bbox_format": "[x, y, width, height] in pixels",
+          "registration_number": "MH 12 AB 1234",
+          "_registration_format": "Actual or fictional registration (specify in privacy_notes)",
+          "visible": true,
+          "readable": true,
+          "angle": "frontal",
+          "_angle_options": "frontal, rear, side, angled",
+          "occlusion_level": "none",
+          "_occlusion_options": "none, partial, heavy",
+          "blur_level": "none",
+          "_blur_options": "none, slight, moderate, heavy",
+          "lighting": "good",
+          "_lighting_options": "good, overexposed, underexposed, night",
+          "notes": "Optional notes about this plate"
+        }
+      ]
+    }
+  ],
+  "_validation_counts": {
+    "total_frames": 1,
+    "total_vehicles": 1,
+    "total_plates": 1,
+    "unique_vehicle_ids": 1
+  }
+}

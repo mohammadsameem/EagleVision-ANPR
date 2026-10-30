@@ -1,0 +1,12 @@
+{
+  "video": "data/test_videos/traffic_park_720p.mp4",
+  "frames_tested": 5,
+  "total_vehicles": 8,
+  "total_plates_detected": 0,
+  "plates_by_method": {
+    "yolo_model": 0,
+    "heuristic_fallback": 0
+  },
+  "model_available": true,
+  "detections": []
+}

@@ -1,0 +1,1992 @@
+{
+  "metadata": {
+    "timestamp": "2026-10-29T18:15:39.063562",
+    "crops_dir": "data\\gemini_anpr_test",
+    "total_crops_tested": 20,
+    "methods_tested": [
+      "none",
+      "cubic_upscale",
+      "lanczos_upscale",
+      "upscale_sharpen",
+      "upscale_contrast",
+      "upscale_denoise",
+      "adaptive"
+    ],
+    "has_ground_truth": false
+  },
+  "by_method": {
+    "none": {
+      "total_crops": 20,
+      "successful_reads": 0,
+      "empty_reads": 20,
+      "total_processing_time": 0.6198632717132568,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.0,
+      "avg_processing_time": 0.030993163585662842,
+      "avg_confidence": 0.0
+    },
+    "cubic_upscale": {
+      "total_crops": 20,
+      "successful_reads": 1,
+      "empty_reads": 19,
+      "total_processing_time": 1.7348947525024414,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Da",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.059490929482109614,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.05,
+      "avg_processing_time": 0.08674473762512207,
+      "avg_confidence": 0.002974546474105481
+    },
+    "lanczos_upscale": {
+      "total_crops": 20,
+      "successful_reads": 1,
+      "empty_reads": 19,
+      "total_processing_time": 1.3700342178344727,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "neau",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.00578622380271554,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.05,
+      "avg_processing_time": 0.06850171089172363,
+      "avg_confidence": 0.000289311190135777
+    },
+    "upscale_sharpen": {
+      "total_crops": 20,
+      "successful_reads": 1,
+      "empty_reads": 19,
+      "total_processing_time": 1.423858642578125,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Fuoucun",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0010732861023462997,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.05,
+      "avg_processing_time": 0.07119293212890625,
+      "avg_confidence": 5.3664305117314986e-05
+    },
+    "upscale_contrast": {
+      "total_crops": 20,
+      "successful_reads": 1,
+      "empty_reads": 19,
+      "total_processing_time": 1.5879006385803223,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mncucuu",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009688781630824393,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.05,
+      "avg_processing_time": 0.07939503192901612,
+      "avg_confidence": 0.00048443908154121966
+    },
+    "upscale_denoise": {
+      "total_crops": 20,
+      "successful_reads": 0,
+      "empty_reads": 20,
+      "total_processing_time": 4.616785049438477,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.0,
+      "avg_processing_time": 0.23083925247192383,
+      "avg_confidence": 0.0
+    },
+    "adaptive": {
+      "total_crops": 20,
+      "successful_reads": 1,
+      "empty_reads": 19,
+      "total_processing_time": 1.4581925868988037,
+      "ocr_texts": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mncucuu",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "confidences": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009688781630824393,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "success_rate": 0.05,
+      "avg_processing_time": 0.07290962934494019,
+      "avg_confidence": 0.00048443908154121966
+    }
+  },
+  "by_crop": {
+    "plate_f0000_v0_p0.jpg": {
+      "filename": "plate_f0000_v0_p0.jpg",
+      "original_size": [
+        39,
+        10
+      ],
+      "original_area": 390,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.1395554542541504,
+          "preprocessed_size": [
+            39,
+            10
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.16859745979309082,
+          "preprocessed_size": [
+            234,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.10404777526855469,
+          "preprocessed_size": [
+            234,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.08490204811096191,
+          "preprocessed_size": [
+            234,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.23296594619750977,
+          "preprocessed_size": [
+            234,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.3227512836456299,
+          "preprocessed_size": [
+            234,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0834188461303711,
+          "preprocessed_size": [
+            234,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0004_v0_p0.jpg": {
+      "filename": "plate_f0004_v0_p0.jpg",
+      "original_size": [
+        40,
+        10
+      ],
+      "original_area": 400,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.04244494438171387,
+          "preprocessed_size": [
+            40,
+            10
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.13868069648742676,
+          "preprocessed_size": [
+            240,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0789337158203125,
+          "preprocessed_size": [
+            240,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0834965705871582,
+          "preprocessed_size": [
+            240,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06506681442260742,
+          "preprocessed_size": [
+            240,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.28397250175476074,
+          "preprocessed_size": [
+            240,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06687426567077637,
+          "preprocessed_size": [
+            240,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0008_v0_p0.jpg": {
+      "filename": "plate_f0008_v0_p0.jpg",
+      "original_size": [
+        44,
+        12
+      ],
+      "original_area": 528,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.03121471405029297,
+          "preprocessed_size": [
+            44,
+            12
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.09093523025512695,
+          "preprocessed_size": [
+            220,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.08018231391906738,
+          "preprocessed_size": [
+            220,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06383728981018066,
+          "preprocessed_size": [
+            220,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.09087562561035156,
+          "preprocessed_size": [
+            220,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.26734328269958496,
+          "preprocessed_size": [
+            220,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07792544364929199,
+          "preprocessed_size": [
+            220,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0012_v0_p0.jpg": {
+      "filename": "plate_f0012_v0_p0.jpg",
+      "original_size": [
+        47,
+        13
+      ],
+      "original_area": 611,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.02254009246826172,
+          "preprocessed_size": [
+            47,
+            13
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.08437061309814453,
+          "preprocessed_size": [
+            216,
+            59
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06359648704528809,
+          "preprocessed_size": [
+            216,
+            59
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.08623647689819336,
+          "preprocessed_size": [
+            216,
+            59
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07210540771484375,
+          "preprocessed_size": [
+            216,
+            59
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.21223068237304688,
+          "preprocessed_size": [
+            216,
+            59
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.09314656257629395,
+          "preprocessed_size": [
+            216,
+            59
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0016_v1_p0.jpg": {
+      "filename": "plate_f0016_v1_p0.jpg",
+      "original_size": [
+        50,
+        14
+      ],
+      "original_area": 700,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.02939629554748535,
+          "preprocessed_size": [
+            50,
+            14
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0636143684387207,
+          "preprocessed_size": [
+            214,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07359719276428223,
+          "preprocessed_size": [
+            214,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06970453262329102,
+          "preprocessed_size": [
+            214,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07358884811401367,
+          "preprocessed_size": [
+            214,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.2750263214111328,
+          "preprocessed_size": [
+            214,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07662296295166016,
+          "preprocessed_size": [
+            214,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0020_v0_p0.jpg": {
+      "filename": "plate_f0020_v0_p0.jpg",
+      "original_size": [
+        52,
+        13
+      ],
+      "original_area": 676,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.02290511131286621,
+          "preprocessed_size": [
+            52,
+            13
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07721590995788574,
+          "preprocessed_size": [
+            239,
+            59
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06712770462036133,
+          "preprocessed_size": [
+            239,
+            59
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06354045867919922,
+          "preprocessed_size": [
+            239,
+            59
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07106709480285645,
+          "preprocessed_size": [
+            239,
+            59
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.2064206600189209,
+          "preprocessed_size": [
+            239,
+            59
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0786583423614502,
+          "preprocessed_size": [
+            239,
+            59
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0024_v0_p0.jpg": {
+      "filename": "plate_f0024_v0_p0.jpg",
+      "original_size": [
+        58,
+        15
+      ],
+      "original_area": 870,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.028781890869140625,
+          "preprocessed_size": [
+            58,
+            15
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06945204734802246,
+          "preprocessed_size": [
+            232,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0667572021484375,
+          "preprocessed_size": [
+            232,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07544326782226562,
+          "preprocessed_size": [
+            232,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06960678100585938,
+          "preprocessed_size": [
+            232,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.20099234580993652,
+          "preprocessed_size": [
+            232,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06898260116577148,
+          "preprocessed_size": [
+            232,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0028_v0_p0.jpg": {
+      "filename": "plate_f0028_v0_p0.jpg",
+      "original_size": [
+        62,
+        17
+      ],
+      "original_area": 1054,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.024952173233032227,
+          "preprocessed_size": [
+            62,
+            17
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07007455825805664,
+          "preprocessed_size": [
+            218,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.056789398193359375,
+          "preprocessed_size": [
+            218,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06305980682373047,
+          "preprocessed_size": [
+            218,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06405472755432129,
+          "preprocessed_size": [
+            218,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.26557445526123047,
+          "preprocessed_size": [
+            218,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06737256050109863,
+          "preprocessed_size": [
+            218,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0032_v0_p0.jpg": {
+      "filename": "plate_f0032_v0_p0.jpg",
+      "original_size": [
+        67,
+        19
+      ],
+      "original_area": 1273,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0350191593170166,
+          "preprocessed_size": [
+            67,
+            19
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06265950202941895,
+          "preprocessed_size": [
+            211,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.059152841567993164,
+          "preprocessed_size": [
+            211,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.07131814956665039,
+          "preprocessed_size": [
+            211,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05866646766662598,
+          "preprocessed_size": [
+            211,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.19344711303710938,
+          "preprocessed_size": [
+            211,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05806422233581543,
+          "preprocessed_size": [
+            211,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0036_v0_p0.jpg": {
+      "filename": "plate_f0036_v0_p0.jpg",
+      "original_size": [
+        71,
+        21
+      ],
+      "original_area": 1491,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.026342391967773438,
+          "preprocessed_size": [
+            71,
+            21
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.060205698013305664,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.057767629623413086,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05954408645629883,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05910086631774902,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.256946325302124,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.060994863510131836,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0040_v0_p0.jpg": {
+      "filename": "plate_f0040_v0_p0.jpg",
+      "original_size": [
+        79,
+        22
+      ],
+      "original_area": 1738,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.030039072036743164,
+          "preprocessed_size": [
+            79,
+            22
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "Da",
+          "confidence": 0.059490929482109614,
+          "processing_time": 0.2776973247528076,
+          "preprocessed_size": [
+            215,
+            59
+          ],
+          "num_detections": 1
+        },
+        "lanczos_upscale": {
+          "text": "neau",
+          "confidence": 0.00578622380271554,
+          "processing_time": 0.13681387901306152,
+          "preprocessed_size": [
+            215,
+            59
+          ],
+          "num_detections": 1
+        },
+        "upscale_sharpen": {
+          "text": "Fuoucun",
+          "confidence": 0.0010732861023462997,
+          "processing_time": 0.16870450973510742,
+          "preprocessed_size": [
+            215,
+            59
+          ],
+          "num_detections": 1
+        },
+        "upscale_contrast": {
+          "text": "Mncucuu",
+          "confidence": 0.009688781630824393,
+          "processing_time": 0.1920607089996338,
+          "preprocessed_size": [
+            215,
+            59
+          ],
+          "num_detections": 1
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.2685871124267578,
+          "preprocessed_size": [
+            215,
+            59
+          ],
+          "num_detections": 1
+        },
+        "adaptive": {
+          "text": "Mncucuu",
+          "confidence": 0.009688781630824393,
+          "processing_time": 0.1817007064819336,
+          "preprocessed_size": [
+            215,
+            59
+          ],
+          "num_detections": 1
+        }
+      }
+    },
+    "plate_f0044_v0_p0.jpg": {
+      "filename": "plate_f0044_v0_p0.jpg",
+      "original_size": [
+        87,
+        24
+      ],
+      "original_area": 2088,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.032051801681518555,
+          "preprocessed_size": [
+            87,
+            24
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06936979293823242,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06192350387573242,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05773806571960449,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06304001808166504,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.1956014633178711,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06396651268005371,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0048_v1_p0.jpg": {
+      "filename": "plate_f0048_v1_p0.jpg",
+      "original_size": [
+        24,
+        7
+      ],
+      "original_area": 168,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.01957869529724121,
+          "preprocessed_size": [
+            24,
+            7
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06168675422668457,
+          "preprocessed_size": [
+            205,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06203413009643555,
+          "preprocessed_size": [
+            205,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05886697769165039,
+          "preprocessed_size": [
+            205,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0617375373840332,
+          "preprocessed_size": [
+            205,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.21298789978027344,
+          "preprocessed_size": [
+            205,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05825209617614746,
+          "preprocessed_size": [
+            205,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0052_v0_p0.jpg": {
+      "filename": "plate_f0052_v0_p0.jpg",
+      "original_size": [
+        26,
+        8
+      ],
+      "original_area": 208,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.01863574981689453,
+          "preprocessed_size": [
+            26,
+            8
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05987358093261719,
+          "preprocessed_size": [
+            195,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.058125972747802734,
+          "preprocessed_size": [
+            195,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05849003791809082,
+          "preprocessed_size": [
+            195,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05566239356994629,
+          "preprocessed_size": [
+            195,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.1794264316558838,
+          "preprocessed_size": [
+            195,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06081843376159668,
+          "preprocessed_size": [
+            195,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0056_v0_p0.jpg": {
+      "filename": "plate_f0056_v0_p0.jpg",
+      "original_size": [
+        27,
+        8
+      ],
+      "original_area": 216,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.020374536514282227,
+          "preprocessed_size": [
+            27,
+            8
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0636892318725586,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.057775259017944336,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.057672977447509766,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0574648380279541,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.20398521423339844,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05886578559875488,
+          "preprocessed_size": [
+            202,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0060_v1_p0.jpg": {
+      "filename": "plate_f0060_v1_p0.jpg",
+      "original_size": [
+        29,
+        8
+      ],
+      "original_area": 232,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.017716646194458008,
+          "preprocessed_size": [
+            29,
+            8
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06629371643066406,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05799221992492676,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.059679508209228516,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.061305999755859375,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.1908731460571289,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0640261173248291,
+          "preprocessed_size": [
+            217,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0064_v0_p0.jpg": {
+      "filename": "plate_f0064_v0_p0.jpg",
+      "original_size": [
+        30,
+        9
+      ],
+      "original_area": 270,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.019103050231933594,
+          "preprocessed_size": [
+            30,
+            9
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0674753189086914,
+          "preprocessed_size": [
+            200,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0581815242767334,
+          "preprocessed_size": [
+            200,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.060584306716918945,
+          "preprocessed_size": [
+            200,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05907773971557617,
+          "preprocessed_size": [
+            200,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.1804368495941162,
+          "preprocessed_size": [
+            200,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06111764907836914,
+          "preprocessed_size": [
+            200,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0064_v1_p0.jpg": {
+      "filename": "plate_f0064_v1_p0.jpg",
+      "original_size": [
+        23,
+        7
+      ],
+      "original_area": 161,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.022584199905395508,
+          "preprocessed_size": [
+            23,
+            7
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.060443878173828125,
+          "preprocessed_size": [
+            197,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05876517295837402,
+          "preprocessed_size": [
+            197,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.060425519943237305,
+          "preprocessed_size": [
+            197,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06185173988342285,
+          "preprocessed_size": [
+            197,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.25404977798461914,
+          "preprocessed_size": [
+            197,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.061808109283447266,
+          "preprocessed_size": [
+            197,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0068_v0_p0.jpg": {
+      "filename": "plate_f0068_v0_p0.jpg",
+      "original_size": [
+        32,
+        9
+      ],
+      "original_area": 288,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.017297983169555664,
+          "preprocessed_size": [
+            32,
+            9
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05502510070800781,
+          "preprocessed_size": [
+            213,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05928921699523926,
+          "preprocessed_size": [
+            213,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06264615058898926,
+          "preprocessed_size": [
+            213,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05878567695617676,
+          "preprocessed_size": [
+            213,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.26140594482421875,
+          "preprocessed_size": [
+            213,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06090354919433594,
+          "preprocessed_size": [
+            213,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    },
+    "plate_f0068_v1_p0.jpg": {
+      "filename": "plate_f0068_v1_p0.jpg",
+      "original_size": [
+        24,
+        8
+      ],
+      "original_area": 192,
+      "methods": {
+        "none": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.019329309463500977,
+          "preprocessed_size": [
+            24,
+            8
+          ],
+          "num_detections": 0
+        },
+        "cubic_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.06753396987915039,
+          "preprocessed_size": [
+            180,
+            60
+          ],
+          "num_detections": 0
+        },
+        "lanczos_upscale": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.05118107795715332,
+          "preprocessed_size": [
+            180,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_sharpen": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.0579679012298584,
+          "preprocessed_size": [
+            180,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_contrast": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.059815406799316406,
+          "preprocessed_size": [
+            180,
+            60
+          ],
+          "num_detections": 0
+        },
+        "upscale_denoise": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.18472623825073242,
+          "preprocessed_size": [
+            180,
+            60
+          ],
+          "num_detections": 0
+        },
+        "adaptive": {
+          "text": "",
+          "confidence": 0.0,
+          "processing_time": 0.054672956466674805,
+          "preprocessed_size": [
+            180,
+            60
+          ],
+          "num_detections": 0
+        }
+      }
+    }
+  }
+}

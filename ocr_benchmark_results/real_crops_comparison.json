@@ -1,0 +1,1275 @@
+{
+  "metadata": {
+    "crops_dir": "data\\gemini_anpr_test",
+    "total_crops": 50,
+    "sample_tested": 50
+  },
+  "crop_results": [
+    {
+      "filename": "plate_f0000_v0_p0.jpg",
+      "dimensions": {
+        "width": 39,
+        "height": 10,
+        "area": 390
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0004_v0_p0.jpg",
+      "dimensions": {
+        "width": 40,
+        "height": 10,
+        "area": 400
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0008_v0_p0.jpg",
+      "dimensions": {
+        "width": 44,
+        "height": 12,
+        "area": 528
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0012_v0_p0.jpg",
+      "dimensions": {
+        "width": 47,
+        "height": 13,
+        "area": 611
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0016_v1_p0.jpg",
+      "dimensions": {
+        "width": 50,
+        "height": 14,
+        "area": 700
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0020_v0_p0.jpg",
+      "dimensions": {
+        "width": 52,
+        "height": 13,
+        "area": 676
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0024_v0_p0.jpg",
+      "dimensions": {
+        "width": 58,
+        "height": 15,
+        "area": 870
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0028_v0_p0.jpg",
+      "dimensions": {
+        "width": 62,
+        "height": 17,
+        "area": 1054
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0032_v0_p0.jpg",
+      "dimensions": {
+        "width": 67,
+        "height": 19,
+        "area": 1273
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0036_v0_p0.jpg",
+      "dimensions": {
+        "width": 71,
+        "height": 21,
+        "area": 1491
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0040_v0_p0.jpg",
+      "dimensions": {
+        "width": 79,
+        "height": 22,
+        "area": 1738
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "neau",
+        "confidence": 0.00578622380271554,
+        "readable": true,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": false,
+      "improvement": true
+    },
+    {
+      "filename": "plate_f0044_v0_p0.jpg",
+      "dimensions": {
+        "width": 87,
+        "height": 24,
+        "area": 2088
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0048_v1_p0.jpg",
+      "dimensions": {
+        "width": 24,
+        "height": 7,
+        "area": 168
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0052_v0_p0.jpg",
+      "dimensions": {
+        "width": 26,
+        "height": 8,
+        "area": 208
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0056_v0_p0.jpg",
+      "dimensions": {
+        "width": 27,
+        "height": 8,
+        "area": 216
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0060_v1_p0.jpg",
+      "dimensions": {
+        "width": 29,
+        "height": 8,
+        "area": 232
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0064_v0_p0.jpg",
+      "dimensions": {
+        "width": 30,
+        "height": 9,
+        "area": 270
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0064_v1_p0.jpg",
+      "dimensions": {
+        "width": 23,
+        "height": 7,
+        "area": 161
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0068_v0_p0.jpg",
+      "dimensions": {
+        "width": 32,
+        "height": 9,
+        "area": 288
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0068_v1_p0.jpg",
+      "dimensions": {
+        "width": 24,
+        "height": 8,
+        "area": 192
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0072_v0_p0.jpg",
+      "dimensions": {
+        "width": 32,
+        "height": 10,
+        "area": 320
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0072_v1_p0.jpg",
+      "dimensions": {
+        "width": 26,
+        "height": 8,
+        "area": 208
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0076_v0_p0.jpg",
+      "dimensions": {
+        "width": 27,
+        "height": 8,
+        "area": 216
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0076_v1_p0.jpg",
+      "dimensions": {
+        "width": 35,
+        "height": 10,
+        "area": 350
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0080_v0_p0.jpg",
+      "dimensions": {
+        "width": 36,
+        "height": 11,
+        "area": 396
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0080_v1_p0.jpg",
+      "dimensions": {
+        "width": 27,
+        "height": 10,
+        "area": 270
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0084_v0_p0.jpg",
+      "dimensions": {
+        "width": 29,
+        "height": 8,
+        "area": 232
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0084_v1_p0.jpg",
+      "dimensions": {
+        "width": 39,
+        "height": 12,
+        "area": 468
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0088_v0_p0.jpg",
+      "dimensions": {
+        "width": 30,
+        "height": 10,
+        "area": 300
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0088_v3_p0.jpg",
+      "dimensions": {
+        "width": 41,
+        "height": 12,
+        "area": 492
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0092_v0_p0.jpg",
+      "dimensions": {
+        "width": 34,
+        "height": 11,
+        "area": 374
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0092_v3_p0.jpg",
+      "dimensions": {
+        "width": 45,
+        "height": 12,
+        "area": 540
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0096_v0_p0.jpg",
+      "dimensions": {
+        "width": 35,
+        "height": 11,
+        "area": 385
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0096_v1_p0.jpg",
+      "dimensions": {
+        "width": 30,
+        "height": 8,
+        "area": 240
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0096_v2_p0.jpg",
+      "dimensions": {
+        "width": 48,
+        "height": 14,
+        "area": 672
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0100_v0_p0.jpg",
+      "dimensions": {
+        "width": 34,
+        "height": 10,
+        "area": 340
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0100_v1_p0.jpg",
+      "dimensions": {
+        "width": 39,
+        "height": 12,
+        "area": 468
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0100_v2_p0.jpg",
+      "dimensions": {
+        "width": 52,
+        "height": 15,
+        "area": 780
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0104_v0_p0.jpg",
+      "dimensions": {
+        "width": 56,
+        "height": 15,
+        "area": 840
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0104_v1_p0.jpg",
+      "dimensions": {
+        "width": 34,
+        "height": 10,
+        "area": 340
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0104_v2_p0.jpg",
+      "dimensions": {
+        "width": 43,
+        "height": 13,
+        "area": 559
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0108_v0_p0.jpg",
+      "dimensions": {
+        "width": 61,
+        "height": 17,
+        "area": 1037
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "Wlc",
+        "confidence": 0.15604621236976013,
+        "readable": true,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": false,
+      "improvement": true
+    },
+    {
+      "filename": "plate_f0108_v1_p0.jpg",
+      "dimensions": {
+        "width": 35,
+        "height": 10,
+        "area": 350
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0108_v2_p0.jpg",
+      "dimensions": {
+        "width": 45,
+        "height": 14,
+        "area": 630
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0112_v0_p0.jpg",
+      "dimensions": {
+        "width": 65,
+        "height": 20,
+        "area": 1300
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "nairi",
+        "confidence": 0.20775625008944668,
+        "readable": true,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": false,
+      "improvement": true
+    },
+    {
+      "filename": "plate_f0112_v1_p0.jpg",
+      "dimensions": {
+        "width": 38,
+        "height": 11,
+        "area": 418
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": true
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0112_v2_p0.jpg",
+      "dimensions": {
+        "width": 50,
+        "height": 15,
+        "area": 750
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0116_v0_p0.jpg",
+      "dimensions": {
+        "width": 54,
+        "height": 16,
+        "area": 864
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0116_v1_p0.jpg",
+      "dimensions": {
+        "width": 70,
+        "height": 22,
+        "area": 1540
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": true,
+        "preprocessing_method": "lanczos4",
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    },
+    {
+      "filename": "plate_f0116_v2_p0.jpg",
+      "dimensions": {
+        "width": 40,
+        "height": 12,
+        "area": 480
+      },
+      "without_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true
+      },
+      "with_preprocessing": {
+        "text": "UNREADABLE",
+        "confidence": 0.0,
+        "readable": false,
+        "needs_review": true,
+        "preprocessing_applied": false,
+        "preprocessing_method": null,
+        "likely_unreadable": false
+      },
+      "texts_match": true,
+      "improvement": false
+    }
+  ],
+  "summary": {
+    "without_preprocessing": {
+      "readable_count": 0,
+      "empty_count": 50,
+      "readable_rate": 0.0
+    },
+    "with_preprocessing": {
+      "readable_count": 3,
+      "empty_count": 47,
+      "readable_rate": 0.06
+    },
+    "improvement": {
+      "additional_readable": 3,
+      "improvement_rate": 0.06
+    }
+  }
+}

@@ -1,0 +1,69 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.db.backup*
+
+# Test/development credentials (NEVER COMMIT)
+test_api_keys.txt
+*_api_keys.txt
+*.key
+*.pem
+
+# ANPR data
+uploads/
+crops/
+models/*.pt
+!models/.gitkeep
+
+# Test videos (large files, not for version control)
+data/test_videos/*.mp4
+data/test_videos/*.avi
+data/test_videos/*.mov
+data/test_videos/*.jpg
+data/test_videos/*.png
+data/test_videos/*.json
+!data/test_videos/README.md
+
+# Private video files (WhatsApp, personal recordings)
+data/*.mp4
+data/*.avi
+data/*.mov
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local AI development workspace artifacts (Antigravity/AI Studio/Kiro)
+/.aistudio/
+/.antigravity/
+
+# Submission archives (large, not needed in Git)
+*.zip

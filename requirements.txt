@@ -1,0 +1,33 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+openai==1.55.3
+numpy==2.1.3
+opencv-python-headless==4.10.0.84
+ultralytics==8.3.38
+lapx==0.5.11
+pydantic==2.10.2
+python-dotenv==1.0.1
+python-multipart==0.0.18
+
+# OCR engines
+paddleocr==2.7.3
+easyocr==1.7.1
+Pillow==10.4.0
+
+# Database
+sqlalchemy==2.0.36
+alembic==1.14.0
+
+# Security
+python-magic==0.4.27
+python-magic-bin==0.4.14  # Windows binary for python-magic
+
+# Background processing
+celery==5.4.0
+redis==5.2.0
+kombu==5.4.2
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.2
+pytest-cov==6.0.0

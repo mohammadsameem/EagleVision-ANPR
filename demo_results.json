@@ -1,0 +1,15 @@
+{
+  "video": "public/videos/cam-n4.mp4",
+  "capabilities": {
+    "vehicle_detection": true,
+    "plate_detection": true,
+    "plate_detection_method": "heuristic",
+    "ocr": true,
+    "ocr_engines": {
+      "paddleocr": false,
+      "easyocr": true
+    }
+  },
+  "total_detections": 0,
+  "sample_results": []
+}

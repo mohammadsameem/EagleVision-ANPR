@@ -1,0 +1,1402 @@
+{
+  "plate_001_clean.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "clean",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_blur_light.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "blur_light",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_blur_heavy.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_noise.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "noise",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_contrast_low.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_rotate_cw.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_rotate_ccw.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_001_combined.png": {
+    "registration_number": "MH 12 AB 1234",
+    "variant_type": "combined",
+    "plate_id": "plate_001",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_clean.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "clean",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_blur_light.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "blur_light",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_blur_heavy.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_noise.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "noise",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_contrast_low.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_rotate_cw.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_rotate_ccw.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_002_combined.png": {
+    "registration_number": "DL 01 CA 5678",
+    "variant_type": "combined",
+    "plate_id": "plate_002",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_clean.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "clean",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_blur_light.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "blur_light",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_blur_heavy.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_noise.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "noise",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_contrast_low.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_rotate_cw.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_rotate_ccw.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_003_combined.png": {
+    "registration_number": "KA 03 MH 9012",
+    "variant_type": "combined",
+    "plate_id": "plate_003",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_clean.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "clean",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_blur_light.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "blur_light",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_blur_heavy.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_noise.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "noise",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_contrast_low.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_rotate_cw.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_rotate_ccw.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_004_combined.png": {
+    "registration_number": "TN 09 XY 3456",
+    "variant_type": "combined",
+    "plate_id": "plate_004",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_clean.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "clean",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_blur_light.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "blur_light",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_blur_heavy.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_noise.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "noise",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_contrast_low.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_rotate_cw.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_rotate_ccw.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_005_combined.png": {
+    "registration_number": "GJ 05 PQ 7890",
+    "variant_type": "combined",
+    "plate_id": "plate_005",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_clean.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "clean",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_blur_light.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "blur_light",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_blur_heavy.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_noise.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "noise",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_contrast_low.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_rotate_cw.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_rotate_ccw.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_006_combined.png": {
+    "registration_number": "UP 16 RS 2345",
+    "variant_type": "combined",
+    "plate_id": "plate_006",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_clean.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "clean",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_blur_light.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "blur_light",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_blur_heavy.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_noise.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "noise",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_contrast_low.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_rotate_cw.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_rotate_ccw.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_007_combined.png": {
+    "registration_number": "RJ 14 TU 6789",
+    "variant_type": "combined",
+    "plate_id": "plate_007",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_clean.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "clean",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_blur_light.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "blur_light",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_blur_heavy.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_noise.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "noise",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_contrast_low.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_rotate_cw.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_rotate_ccw.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_008_combined.png": {
+    "registration_number": "WB 02 VW 1234",
+    "variant_type": "combined",
+    "plate_id": "plate_008",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_clean.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "clean",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_blur_light.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "blur_light",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_blur_heavy.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_noise.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "noise",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_contrast_low.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_rotate_cw.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_rotate_ccw.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_009_combined.png": {
+    "registration_number": "HR 26 AB 5678",
+    "variant_type": "combined",
+    "plate_id": "plate_009",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_clean.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "clean",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_blur_light.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "blur_light",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_blur_heavy.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_noise.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "noise",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_contrast_low.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_rotate_cw.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_rotate_ccw.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_010_combined.png": {
+    "registration_number": "PB 10 CD 9012",
+    "variant_type": "combined",
+    "plate_id": "plate_010",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_clean.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "clean",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_blur_light.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "blur_light",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_blur_heavy.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_noise.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "noise",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_contrast_low.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_rotate_cw.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_rotate_ccw.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_011_combined.png": {
+    "registration_number": "AP 28 EF 3456",
+    "variant_type": "combined",
+    "plate_id": "plate_011",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_clean.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "clean",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_blur_light.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "blur_light",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_blur_heavy.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_noise.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "noise",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_contrast_low.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_rotate_cw.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_rotate_ccw.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_012_combined.png": {
+    "registration_number": "TS 07 GH 7890",
+    "variant_type": "combined",
+    "plate_id": "plate_012",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_clean.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "clean",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_blur_light.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "blur_light",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_blur_heavy.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_noise.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "noise",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_contrast_low.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_rotate_cw.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_rotate_ccw.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_013_combined.png": {
+    "registration_number": "MP 09 IJ 2345",
+    "variant_type": "combined",
+    "plate_id": "plate_013",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_clean.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "clean",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_blur_light.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "blur_light",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_blur_heavy.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_noise.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "noise",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_contrast_low.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_rotate_cw.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_rotate_ccw.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_014_combined.png": {
+    "registration_number": "BR 01 KL 6789",
+    "variant_type": "combined",
+    "plate_id": "plate_014",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_clean.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "clean",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_blur_light.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "blur_light",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_blur_heavy.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_noise.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "noise",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_contrast_low.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_rotate_cw.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_rotate_ccw.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_015_combined.png": {
+    "registration_number": "OD 05 MN 1234",
+    "variant_type": "combined",
+    "plate_id": "plate_015",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_clean.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "clean",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_blur_light.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "blur_light",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_blur_heavy.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_noise.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "noise",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_contrast_low.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_rotate_cw.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_rotate_ccw.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_016_combined.png": {
+    "registration_number": "MH 01 AB 9999",
+    "variant_type": "combined",
+    "plate_id": "plate_016",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_clean.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "clean",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_blur_light.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "blur_light",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_blur_heavy.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_noise.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "noise",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_contrast_low.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_rotate_cw.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_rotate_ccw.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_017_combined.png": {
+    "registration_number": "DL 08 XY 1111",
+    "variant_type": "combined",
+    "plate_id": "plate_017",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_clean.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "clean",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_blur_light.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "blur_light",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_blur_heavy.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_noise.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "noise",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_contrast_low.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_rotate_cw.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_rotate_ccw.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_018_combined.png": {
+    "registration_number": "KA 51 BC 2222",
+    "variant_type": "combined",
+    "plate_id": "plate_018",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_clean.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "clean",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_blur_light.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "blur_light",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_blur_heavy.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_noise.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "noise",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_contrast_low.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_rotate_cw.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_rotate_ccw.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_019_combined.png": {
+    "registration_number": "TN 11 DE 3333",
+    "variant_type": "combined",
+    "plate_id": "plate_019",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_clean.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "clean",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_blur_light.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "blur_light",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_blur_heavy.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_noise.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "noise",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_contrast_low.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_rotate_cw.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_rotate_ccw.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_020_combined.png": {
+    "registration_number": "GJ 18 FG 4444",
+    "variant_type": "combined",
+    "plate_id": "plate_020",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_clean.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "clean",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_blur_light.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "blur_light",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_blur_heavy.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_noise.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "noise",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_contrast_low.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_rotate_cw.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_rotate_ccw.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_021_combined.png": {
+    "registration_number": "UP 32 HI 5555",
+    "variant_type": "combined",
+    "plate_id": "plate_021",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_clean.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "clean",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_blur_light.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "blur_light",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_blur_heavy.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_noise.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "noise",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_contrast_low.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_rotate_cw.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_rotate_ccw.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_022_combined.png": {
+    "registration_number": "RJ 07 JK 6666",
+    "variant_type": "combined",
+    "plate_id": "plate_022",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_clean.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "clean",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_blur_light.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "blur_light",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_blur_heavy.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_noise.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "noise",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_contrast_low.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_rotate_cw.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_rotate_ccw.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_023_combined.png": {
+    "registration_number": "WB 21 LM 7777",
+    "variant_type": "combined",
+    "plate_id": "plate_023",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_clean.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "clean",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_blur_light.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "blur_light",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_blur_heavy.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_noise.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "noise",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_contrast_low.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_rotate_cw.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_rotate_ccw.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_024_combined.png": {
+    "registration_number": "HR 55 NO 8888",
+    "variant_type": "combined",
+    "plate_id": "plate_024",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_clean.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "clean",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_blur_light.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "blur_light",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_blur_heavy.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "blur_heavy",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_noise.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "noise",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_contrast_low.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "contrast_low",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_rotate_cw.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "rotate_cw",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_rotate_ccw.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "rotate_ccw",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  },
+  "plate_025_combined.png": {
+    "registration_number": "PB 65 PQ 9999",
+    "variant_type": "combined",
+    "plate_id": "plate_025",
+    "width": 440,
+    "height": 110
+  }
+}

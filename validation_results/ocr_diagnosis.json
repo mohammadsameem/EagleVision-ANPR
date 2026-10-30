@@ -1,0 +1,27 @@
+{
+  "total_crops_sampled": 50,
+  "dimensions": {
+    "min_width": 23,
+    "max_width": 87,
+    "mean_width": 42.82,
+    "min_height": 7,
+    "max_height": 24,
+    "mean_height": 12.42
+  },
+  "areas": {
+    "min": 161,
+    "max": 2088,
+    "mean": 594.26,
+    "below_400px": 23,
+    "below_1000px": 42
+  },
+  "aspect_ratios": {
+    "min": 2.7,
+    "max": 4.0,
+    "mean": 3.436449869360086
+  },
+  "recommendations": [
+    "CRITICAL: Plate crops are too small (mean width < 50px). OCR will fail. Increase detection resolution or use larger source images.",
+    "Plate crop area is small (mean 594px). Minimum recommended area is 1000px (e.g., 100x10 or 50x20)."
+  ]
+}

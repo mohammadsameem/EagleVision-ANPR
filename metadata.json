@@ -1,0 +1,1 @@
+{"name":"EagleVision — Multi-Camera Vehicle Re-ID \u0026 Incident Agent","description":"Municipal traffic forensics command center with cross-camera YOLOv8 vehicle re-identification, spatio-temporal anomaly detection, and NVIDIA Nemotron-70B forensic reasoning on Nebius AI Cloud.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}

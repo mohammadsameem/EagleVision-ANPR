@@ -1,0 +1,35 @@
+{
+  "WhatsApp Video 2026-10-30 at 6.25.41 AM.mp4": {
+    "validation_id": "video_1",
+    "resolution": "848\u00d7478",
+    "fps": 20.0,
+    "duration": 14.85,
+    "frames_processed": 75,
+    "vehicles": 177,
+    "plates": 149,
+    "plate_detection_rate": 0.8418079096045198,
+    "readable_ocr_rate": 0.825503355704698
+  },
+  "WhatsApp Video 2026-10-30 at 6.26.04 AM.mp4": {
+    "validation_id": "video_3",
+    "resolution": "1280\u00d7720",
+    "fps": 14.97504159733777,
+    "duration": 24.040000000000003,
+    "frames_processed": 4,
+    "vehicles": 4,
+    "plates": 2,
+    "plate_detection_rate": 0.5,
+    "readable_ocr_rate": 0.0
+  },
+  "WhatsApp Video 2026-10-30 at 6.26.23 AM.mp4": {
+    "validation_id": "video_2",
+    "resolution": "1152\u00d7720",
+    "fps": 30.0,
+    "duration": 16.766666666666666,
+    "frames_processed": 84,
+    "vehicles": 363,
+    "plates": 71,
+    "plate_detection_rate": 0.19559228650137742,
+    "readable_ocr_rate": 0.8873239436619719
+  }
+}

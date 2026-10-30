@@ -1,0 +1,30 @@
+{
+  "annotation_set_id": "cctv_real_set_1",
+  "annotator": "REPLACE_WITH_YOUR_NAME",
+  "annotation_date": "2026-10-28",
+  "annotation_tool": "manual",
+  "bounding_box_format": "[x_min, y_min, x_max, y_max]",
+  "coordinate_system": "absolute_pixels",
+  "notes": "Ground truth annotations for EagleVision ANPR validation. 74 frames across 3 CCTV videos.",
+  "videos": {
+    "video_1": {
+      "filename": "WhatsApp Video 2026-10-30 at 6.25.41 AM.mp4",
+      "resolution": "848x478",
+      "fps": 20.0,
+      "scenario": "rear-plate stationary vehicle"
+    },
+    "video_2": {
+      "filename": "WhatsApp Video 2026-10-30 at 6.26.23 AM.mp4",
+      "resolution": "1152x720",
+      "fps": 30.0,
+      "scenario": "front-plate moving vehicles"
+    },
+    "video_3": {
+      "filename": "WhatsApp Video 2026-10-30 at 6.26.04 AM.mp4",
+      "resolution": "1280x720",
+      "fps": 14.98,
+      "scenario": "empty scene negative test"
+    }
+  },
+  "frames": []
+}
