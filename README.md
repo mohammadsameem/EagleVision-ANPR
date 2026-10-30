@@ -1,5 +1,10 @@
 # EagleVision ANPR – Automatic Number Plate Recognition System
 
+<p align="center">
+<img width="1254" height="1254" alt="Logo (1)" src="https://github.com/user-attachments/assets/b6fab35f-9636-41e4-b224-c4ca26064b1a" />
+
+</p>
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.14.0-blue.svg)
 ![Tests](https://img.shields.io/badge/tests-184%2F199%20passing-green.svg)
