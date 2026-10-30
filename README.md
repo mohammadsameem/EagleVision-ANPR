@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    width="190"
-    height="190"
+    width="290"
+    height="290"
     alt="logo"
     src="https://github.com/user-attachments/assets/b6fab35f-9636-41e4-b224-c4ca26064b1a"
   />
